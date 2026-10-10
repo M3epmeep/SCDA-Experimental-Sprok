@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.10-x57",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.10-x57/scda-ce-exp-2026.10.10-x57.scdaupd",
-  "sha256": "699283ba4e0bd65a436ecfba52cf9b8ebc795acf251ecb51d40c229cf6765b6f",
-  "size": 109903924,
-  "notes": "Needs SCDA Launcher 3.22 (the launcher updates itself at start): on PCs that had the Experimental Build before 2 October, the community skins and game modes were held back as already owned by a Main build add-on; 3.22 installs them. Same game files as x56: the original suits back with the community skins on top, the lobby Skins and Change Mode buttons (Classic, Challenge 25%, Infinite, Blackout 90 s), coop moves and the Club House / Warehouse fixes.",
-  "released": "2026-10-10T16:01:02Z",
+  "version": "2026.10.10-x58",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.10-x58/scda-ce-exp-2026.10.10-x58.scdaupd",
+  "sha256": "923b05f37105a105778b2f9a1517283daaec3b211ecfd69de1b44578c04b0181",
+  "size": 109939954,
+  "notes": "Squad Commander: his goggles, face mask and a band on his left arm now glow in the merc visor colours and follow his vision mode (Normal, EMF, Motion, Hacked), so he is readable in the dark. Everything else as x57 (needs SCDA Launcher 3.22).",
+  "released": "2026-10-10T17:31:08Z",
   "addons": [
     {
       "code": "MAPKEY",
