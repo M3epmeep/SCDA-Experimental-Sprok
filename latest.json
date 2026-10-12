@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.11-1",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.11-1/scda-ce-2026.10.11-1.scdaupd",
-  "sha256": "fc32bdb2ccc4bb860b1be00d1db4ce7e474f8b68bed798e56383a82de3d95636",
-  "size": 167532937,
-  "notes": "Community skins and new game modes: the original suits plus spy rows 7-11 (Lara, Obsidian, Venom, Breacher, Viper) and merc rows 4-5 (Metro Police, Squad Commander), picked under Home > Skins or with the Skins button in the lobby (every player). The host's lobby has Change Mode: Classic, Challenge (25%), Infinite and Blackout (keep the ECC off for 90 seconds to win; the countdown shows in the timer box; Blackout needs a map with a generator ECC). Needs SCDA Launcher 3.22 (it updates itself at start).",
-  "released": "2026-10-11T14:16:55Z",
+  "version": "2026.10.11-3",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/v2026.10.11-3/scda-ce-2026.10.11-3.scdaupd",
+  "sha256": "f75722f311472e4bdb69411d73b899114024ccf573a0086515bd8687f5fcb5f5",
+  "size": 167533724,
+  "notes": "Warehouse update: the nine laptops now take 3 seconds to hack (was 12), and a few start, objective, drone and gadget-box spots are adjusted. Everything else as 2026.10.11-1 (needs SCDA Launcher 3.22).",
+  "released": "2026-10-12T00:43:32Z",
   "addons": [
     {
       "code": "KIN01",
