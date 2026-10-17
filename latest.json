@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.16-x59",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.16-x59/scda-ce-exp-2026.10.16-x59.scdaupd",
-  "sha256": "ecdd30a2e0321f3956303f6a3d8d55c82feb9a48b67e361e3ea2a92428cd233f",
-  "size": 46053120,
-  "notes": "Chaos Theory mode: in Custom Search pick Chaos Theory (Club House, Warehouse) and choose four gadgets on the lobby Equipment page - spy Shocker, chaff, alarm snare, heartbeat sensor, spy bullet, camo suit; merc mines, spy tracker, gas mask, taser, flares and healing a team mate. Also a fifth terminal on Dawn Waves and merc bots that no longer crash Chaos Theory maps. Skins, Change Mode and coop moves as before.",
-  "released": "2026-10-16T22:32:30Z",
+  "version": "2026.10.17-x60",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.17-x60/scda-ce-exp-2026.10.17-x60.scdaupd",
+  "sha256": "efebcb62087dd7b8113f61a072f7e185d8768b828259aff38c106ed9fb89ab01",
+  "size": 306782758,
+  "notes": "Two more Chaos Theory maps: Orphanage and Aquarius (beta) are in Custom Search under Chaos Theory - bomb sites, laptops, discs, lasers you can hack off with your device for 30 seconds, and on Orphanage security cameras and wall sensors that call out the room. Lasers and cameras can now also be hacked in Chaos Theory mode. Please do not add bots on Aquarius yet. Big download (about 300 MB) because of the two maps' sound banks.",
+  "released": "2026-10-17T01:33:18Z",
   "addons": [
     {
       "code": "MAPKEY",
@@ -60,6 +60,26 @@
     {
       "code": "COOPH",
       "title": "Coop move icons",
+      "kind": "files"
+    },
+    {
+      "code": "ORPHE",
+      "title": "Orphanage (beta)",
+      "kind": "map"
+    },
+    {
+      "code": "AQUAE",
+      "title": "Aquarius (beta)",
+      "kind": "map"
+    },
+    {
+      "code": "CTSND",
+      "title": "Orphanage and Aquarius sound",
+      "kind": "files"
+    },
+    {
+      "code": "SECCM",
+      "title": "Security cameras and wall sensors",
       "kind": "files"
     }
   ],
