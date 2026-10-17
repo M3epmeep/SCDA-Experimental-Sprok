@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.10.17-x60",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.17-x60/scda-ce-exp-2026.10.17-x60.scdaupd",
-  "sha256": "efebcb62087dd7b8113f61a072f7e185d8768b828259aff38c106ed9fb89ab01",
-  "size": 306782758,
-  "notes": "Two more Chaos Theory maps: Orphanage and Aquarius (beta) are in Custom Search under Chaos Theory - bomb sites, laptops, discs, lasers you can hack off with your device for 30 seconds, and on Orphanage security cameras and wall sensors that call out the room. Lasers and cameras can now also be hacked in Chaos Theory mode. Please do not add bots on Aquarius yet. Big download (about 300 MB) because of the two maps' sound banks.",
-  "released": "2026-10-17T01:33:18Z",
+  "version": "2026.10.17-x61",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Launcher/releases/download/exp-v2026.10.17-x61/scda-ce-exp-2026.10.17-x61.scdaupd",
+  "sha256": "4288eb659e1ed6d0fbfb82895a3f77277b3a4f81d03df41661a61aa0f8e4ecc9",
+  "size": 306905269,
+  "notes": "Chaos Theory gadgets are now real items in your gadget bar (bottom right, with their own icons): pick them on the lobby Equipment page (now remembered between launches), select with 3-6 and use them with the new Use Gadget key - B or mouse button 4, for both teams (change it under Controls, Common). Teammates now see each other's laptop hacks, bomb plants and who carries the disc, with objective markers on the Chaos Theory maps. If the game crashes, send System\\CrashCatch.log with your report.",
+  "released": "2026-10-17T10:16:44Z",
   "addons": [
     {
       "code": "MAPKEY",
@@ -80,6 +80,11 @@
     {
       "code": "SECCM",
       "title": "Security cameras and wall sensors",
+      "kind": "files"
+    },
+    {
+      "code": "CRASH",
+      "title": "Crash log",
       "kind": "files"
     }
   ],
