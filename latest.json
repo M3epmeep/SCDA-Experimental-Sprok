@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.11-3-s2",
-  "bundle_url": "https://github.com/M3epmeep/SCDA-Experimental-Sprok/releases/download/v2026.10.11-3-s2/scda-ce-2026.10.11-3-s2.scdaupd",
-  "sha256": "55a8a2a738017adba58a821f0f1e905ec0af5e0669597d813b76c56a5b090bda",
-  "size": 169155782,
-  "notes": "Sprok s2 = CE 2026.10.11-3 + chat-hud + spy-merc-grab: a spy grabs a merc late in the berserk spin, through the wall stagger, on stairs and in a jump; a possible neck wins over switches and panels; a merc can berserk out of the wall stagger",
-  "released": "2026-10-18T20:03:43Z",
+  "version": "2026.10.11-6-s1",
+  "bundle_url": "https://github.com/M3epmeep/SCDA-Experimental-Sprok/releases/download/v2026.10.11-6-s1/scda-ce-2026.10.11-6-s1.scdaupd",
+  "sha256": "03f62351d92a6b62aeb21605be65315041396744df5b3cc5cee22765974195ea",
+  "size": 169221777,
+  "notes": "Community Edition 2026.10.11-6 plus: chat update, chat works when dead, merc HUD stays in the scope and the drone, necks on stairs, necks through the berserk spin's end, the wall and sprint-attack staggers, jumps and landings, neck before objects, berserk out of the wall and sprint-attack staggers",
+  "released": "2026-10-19T18:00:23Z",
   "addons": [
     {
       "code": "KIN01",
@@ -60,6 +60,11 @@
     {
       "code": "CSKINS",
       "title": "Community skins and game modes",
+      "kind": "files"
+    },
+    {
+      "code": "NETLOG",
+      "title": "Network log and kept logs for support",
       "kind": "files"
     }
   ],
