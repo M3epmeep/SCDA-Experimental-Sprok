@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.11-9-s4",
-  "bundle_url": "https://github.com/M3epmeep/SCDA-Experimental-Sprok/releases/download/v2026.10.11-9-s4/scda-ce-2026.10.11-9-s4.scdaupd",
-  "sha256": "6b7fa721ee31db1841ebaba56aa4bee903772a8173204d4fbd7312134f8661d9",
-  "size": 177775199,
-  "notes": "Chat icons, KO icon and skull on kills; neck kills now land for spies who are not the host, and a spy never stays frozen holding a merc",
-  "released": "2026-10-25T22:10:07Z",
+  "version": "2026.10.11-9-s5",
+  "bundle_url": "https://github.com/M3epmeep/SCDA-Experimental-Sprok/releases/download/v2026.10.11-9-s5/scda-ce-2026.10.11-9-s5.scdaupd",
+  "sha256": "d6c564064f0b0b7f5c170acdcee8b4681514bffc70c71f24c6510765cea7ecf9",
+  "size": 177775154,
+  "notes": "Bigger chat icons (skull and KO included), lines spaced to fit them; otherwise as 9-s4.",
+  "released": "2026-10-25T23:03:50Z",
   "addons": [
     {
       "code": "KIN01",
