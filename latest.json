@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.11-6-s1",
-  "bundle_url": "https://github.com/M3epmeep/SCDA-Experimental-Sprok/releases/download/v2026.10.11-6-s1/scda-ce-2026.10.11-6-s1.scdaupd",
-  "sha256": "03f62351d92a6b62aeb21605be65315041396744df5b3cc5cee22765974195ea",
-  "size": 169221777,
-  "notes": "Community Edition 2026.10.11-6 plus: chat update, chat works when dead, merc HUD stays in the scope and the drone, necks on stairs, necks through the berserk spin's end, the wall and sprint-attack staggers, jumps and landings, neck before objects, berserk out of the wall and sprint-attack staggers",
-  "released": "2026-10-19T18:00:23Z",
+  "version": "2026.10.11-9-s1",
+  "bundle_url": "https://github.com/M3epmeep/SCDA-Experimental-Sprok/releases/download/v2026.10.11-9-s1/scda-ce-2026.10.11-9-s1.scdaupd",
+  "sha256": "af7f9d4d3992c080b28dbbb5936e9b3fe6da653c2c6e2d12152899387a1cdb65",
+  "size": 177775073,
+  "notes": "Chat: the game's messages show their icons again, a knock-out shows an orange KO icon of its own, and player chat shows no icon.",
+  "released": "2026-10-25T18:39:26Z",
   "addons": [
     {
       "code": "KIN01",
