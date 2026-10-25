@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.11-9-s1",
-  "bundle_url": "https://github.com/M3epmeep/SCDA-Experimental-Sprok/releases/download/v2026.10.11-9-s1/scda-ce-2026.10.11-9-s1.scdaupd",
-  "sha256": "af7f9d4d3992c080b28dbbb5936e9b3fe6da653c2c6e2d12152899387a1cdb65",
-  "size": 177775073,
-  "notes": "Chat: the game's messages show their icons again, a knock-out shows an orange KO icon of its own, and player chat shows no icon.",
-  "released": "2026-10-25T18:39:26Z",
+  "version": "2026.10.11-9-s3",
+  "bundle_url": "https://github.com/M3epmeep/SCDA-Experimental-Sprok/releases/download/v2026.10.11-9-s3/scda-ce-2026.10.11-9-s3.scdaupd",
+  "sha256": "ca7e69c9dfe2dd8c1ab5af89209aa0ce832b09c1a2d837ed035bbadec2854f74",
+  "size": 177775067,
+  "notes": "Chat: skull on every kill line, necks and jump kills included; orange KO icon on knock-outs; dead players' messages without the skull",
+  "released": "2026-10-25T22:02:03Z",
   "addons": [
     {
       "code": "KIN01",
