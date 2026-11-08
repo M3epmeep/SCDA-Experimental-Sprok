@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.11-11-s2",
-  "bundle_url": "https://github.com/M3epmeep/SCDA-Experimental-Sprok/releases/download/v2026.10.11-11-s2/scda-ce-2026.10.11-11-s2.scdaupd",
-  "sha256": "3080fd4e65d1c0a378ecbba1e8e4dd98e5ceb1f820296d1e2920792e5a97428f",
-  "size": 177781354,
-  "notes": "Sniper headshot ding at the spy's body; headshot skull in the kill feed; chat icons with KO icon and kill skull; late necks hold, zipdown, hard-landing and wall-knock timings",
-  "released": "2026-11-08T17:45:06Z",
+  "version": "2026.10.11-11-s3",
+  "bundle_url": "https://github.com/M3epmeep/SCDA-Experimental-Sprok/releases/download/v2026.10.11-11-s3/scda-ce-2026.10.11-11-s3.scdaupd",
+  "sha256": "e2eabec62f4636c5438ec9d111296be10ae58ee9e8f56ef12499090c128b3e78",
+  "size": 177781367,
+  "notes": "Headshot skull now on every player's screen; sniper headshot ding at the spy's body; chat icons with KO icon and kill skull; late necks hold, zipdown, hard-landing and wall-knock timings",
+  "released": "2026-11-08T20:17:48Z",
   "addons": [
     {
       "code": "KIN01",
