@@ -1,11 +1,11 @@
 {
   "track": "main",
-  "version": "2026.10.11-11-s4",
-  "bundle_url": "https://github.com/M3epmeep/SCDA-Experimental-Sprok/releases/download/v2026.10.11-11-s4/scda-ce-2026.10.11-11-s4.scdaupd",
-  "sha256": "4b81ff133800c433b71261607a7264e29fba6718e276bd588dc1f50294ca5087",
-  "size": 177806501,
-  "notes": "Headshot ding as a sound of its own, played on every player's screen with the crimson headshot skull; turret sound back; chat icons with KO icon and kill skull; late necks hold, zipdown, hard-landing and wall-knock timings",
-  "released": "2026-11-08T21:33:15Z",
+  "version": "2026.10.11-11-s5",
+  "bundle_url": "https://github.com/M3epmeep/SCDA-Experimental-Sprok/releases/download/v2026.10.11-11-s5/scda-ce-2026.10.11-11-s5.scdaupd",
+  "sha256": "97de7bc3f98378fb15224b4e853b90e6e81d27c7d2e92dbaca81eedd8a9147db",
+  "size": 177793577,
+  "notes": "Sniper headshot ding at the spy's body on a scoped headshot kill; neck timings after zipdowns, hard landings and wall knocks; late necks hold. Everything else as the official 2026.10.11-11.",
+  "released": "2026-11-15T15:31:54Z",
   "addons": [
     {
       "code": "KIN01",
