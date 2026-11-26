@@ -1,0 +1,158 @@
+{
+  "track": "experimental",
+  "version": "2026.11.24-x95-s1",
+  "bundle_url": "https://github.com/M3epmeep/SCDA-Experimental-Sprok/releases/download/exp-v2026.11.24-x95-s1/scda-ce-exp-2026.11.24-x95-s1.scdaupd",
+  "sha256": "0ad9ad2e12ec3f1e2b227fc605b12d768f274d82d9b664fa28ebf6dbc13561a9",
+  "size": 618539862,
+  "notes": "Official Experimental x95 plus: a headshot ding at the spy's body that every player within 20 m hears from its direction, and for mercs on a controller a Clutch Sensitivity while LB is held (double tap LB for the drone). Every player in a match needs this version.",
+  "released": "2026-11-26T09:40:31Z",
+  "addons": [
+    {
+      "code": "NETGRC",
+      "title": "Disconnect grace (30 s)",
+      "kind": "files"
+    },
+    {
+      "code": "TRAVGT",
+      "title": "Round-change fix",
+      "kind": "files"
+    },
+    {
+      "code": "NETLG2",
+      "title": "Connection log v1.2",
+      "kind": "files"
+    },
+    {
+      "code": "VOICE6",
+      "title": "Proximity voice for everyone (no team radio)",
+      "kind": "files"
+    },
+    {
+      "code": "NOKICK",
+      "title": "No anti-cheat self-kick",
+      "kind": "files"
+    },
+    {
+      "code": "HITCH",
+      "title": "Freeze recorder",
+      "kind": "files"
+    },
+    {
+      "code": "RNKSTY",
+      "title": "Two rounds with a side swap",
+      "kind": "files"
+    },
+    {
+      "code": "SPRK9",
+      "title": "Neck kills for spies, chat icons",
+      "kind": "files"
+    },
+    {
+      "code": "MAPKEY",
+      "title": "Experimental map names",
+      "kind": "files"
+    },
+    {
+      "code": "CTBASE",
+      "title": "3v3 maps: Orphanage and Aquarius assets",
+      "kind": "files"
+    },
+    {
+      "code": "CTSND",
+      "title": "3v3 maps: sound",
+      "kind": "files"
+    },
+    {
+      "code": "T3HUD",
+      "title": "3v3 maps: room names",
+      "kind": "files"
+    },
+    {
+      "code": "MODEDA",
+      "title": "3v3 maps: Double Agent only",
+      "kind": "files"
+    },
+    {
+      "code": "NAVGD",
+      "title": "Merc bots on the 3v3 maps",
+      "kind": "files"
+    },
+    {
+      "code": "EROSYN",
+      "title": "Blown-object sync (EROSync)",
+      "kind": "files"
+    },
+    {
+      "code": "ORPHT",
+      "title": "Orphanage 3v3",
+      "kind": "map"
+    },
+    {
+      "code": "AQUAT",
+      "title": "Aquarius 3v3",
+      "kind": "map"
+    },
+    {
+      "code": "CLUBT",
+      "title": "Club House 3v3",
+      "kind": "map"
+    },
+    {
+      "code": "POLAT",
+      "title": "Polar Base 3v3",
+      "kind": "map"
+    },
+    {
+      "code": "STEET",
+      "title": "Steel Squat 3v3",
+      "kind": "map"
+    },
+    {
+      "code": "FACTT",
+      "title": "Factory 3v3",
+      "kind": "map"
+    },
+    {
+      "code": "MUSET",
+      "title": "Museum 3v3",
+      "kind": "map"
+    },
+    {
+      "code": "PRISN",
+      "title": "Prison 3v3",
+      "kind": "map"
+    },
+    {
+      "code": "COOPT",
+      "title": "Coop moves on the Chaos Theory 3v3 maps (spies)",
+      "kind": "files"
+    },
+    {
+      "code": "SPSKN",
+      "title": "New skins: Sam Fisher outfits, Enrica, Lambert, Chaos Theory spy, Argus, SWAT Officer, Riot Warden and Bodyguard mercs",
+      "kind": "files"
+    },
+    {
+      "code": "PING",
+      "title": "Team ping",
+      "kind": "files"
+    },
+    {
+      "code": "CTCUE",
+      "title": "3v3 maps: alarm panel and Chaos Theory sounds",
+      "kind": "files"
+    },
+    {
+      "code": "ENGGD",
+      "title": "Crash guards (round end, map load, map unload)",
+      "kind": "files"
+    },
+    {
+      "code": "EXEFT",
+      "title": "Sensitivity page, finer sliders, your own frame limit, any mouse polling rate, automatic key bindings",
+      "kind": "files"
+    }
+  ],
+  "min_patcher": 3,
+  "min_launcher": "3.22"
+}
